@@ -1,5 +1,5 @@
-# tinkly
-Track, celebrate, and remember every puzzle you solve.
+# tinkly <3
+track, celebrate, and remember every puzzle you solve.
 MVP (Version 1)
 
 - Create puzzle entry
