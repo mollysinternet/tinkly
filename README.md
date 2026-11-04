@@ -3,7 +3,7 @@ track, celebrate, and remember every puzzle you solve.
 
 A cozy home for your puzzle life. 🧩
 
-Tinkly helps puzzle lovers keep track of every puzzle they've solved, from crosswords and sudoku to logic puzzles and puzzle books.
+tinkly helps puzzle lovers keep track of every puzzle they've solved, from crosswords and sudoku to logic puzzles and puzzle books.
 
 Record solve times, track progress, build streaks, and create a personal archive of your puzzling journey.
 
